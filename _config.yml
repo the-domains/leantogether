@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.2466211
+  lightness: 0.2545417
+  brandStrength: 0.8293871
+  rhythmicContrast: 0.4966241
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.5351228
+name: 'leantogether '
